@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Kick",
+        "rating": 3,
+        "release_date": "20 April 2021"
+    },
+    {
+        "name": "Sultan",
+        "rating": 4,
+        "release_date": "21 April 2022"
+    },
+    {
+        "name": "Dhoom",
+        "rating": 3,
+        "release_date": "22 April 2021"
+    },
+    {
+        "name": "Bodyguard",
+        "rating": 4,
+        "release_date": "21 April 2022"
+    },
+    {
+        "name": "Bajrangi Bhaijan",
+        "rating": 5,
+        "release_date": "20 April 2021"
+    },
+    {
+        "name": "Wanted",
+        "rating": 4,
+        "release_date": "21 April 2022"
+    },
+    {
+        "name": "No Entry",
+        "rating": 3,
+        "release_date": "20 April 2021"
+    },
+    {
+        "name": "Sultan 2",
+        "rating": 4,
+        "release_date": "21 April 2022"
+    },
+    {
+        "name": "Kick 2",
+        "rating": 4,
+        "release_date": "20 April 2021"
+    },
+    {
+        "name": "Bodyguard 2",
+        "rating": 4,
+        "release_date": "21 April 2022"
+    },
+    {
+        "name": "Kisi ki bhai kisi ki Jan",
+        "rating": 3,
+        "release_date": "21 April 2023"
+    },
+    {
+        "name": "Shehjada",
+        "rating": 5,
+        "release_date": "21 April 2023"
+    },
+    {
+        "name": "Movie 12",
+        "rating": 3,
+        "release_date": "20 April 2021"
+    },
+    {
+        "name": "Movie 12",
+        "rating": 4,
+        "release_date": "21 April 2022"
+    },
+    {
+        "name": "Movie 13",
+        "rating": 3,
+        "release_date": "20 April 2021"
+    },
+    {
+        "name": "Movie 14",
+        "rating": 4,
+        "release_date": "21 April 2022"
+    },
+    {
+        "name": "Movie 15",
+        "rating": 3,
+        "release_date": "20 April 2021"
+    },
+    {
+        "name": "Movie 16",
+        "rating": 4,
+        "release_date": "21 April 2022"
+    },
+    {
+        "name": "Movie 15",
+        "rating": 3,
+        "release_date": "20 April 2021"
+    },
+    {
+        "name": "Movie 16",
+        "rating": 4,
+        "release_date": "21 April 2022"
+    },
+    {
+        "name": "Movie 17",
+        "rating": 3,
+        "release_date": "20 April 2021"
+    },
+    {
+        "name": "Movie 18",
+        "rating": 2,
+        "release_date": "06 April 2023"
+    },
+    {
+        "name": "Movie 19",
+        "rating": 3,
+        "release_date": "25 April 2022"
+    },
+    {
+        "name": "Movie 20",
+        "rating": 5,
+        "release_date": "23 April 2022"
+    }
+]

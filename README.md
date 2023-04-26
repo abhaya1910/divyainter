@@ -60,10 +60,15 @@ Method `POST`
 
 URL: [http://localhost:5000/addUser](http://localhost:5000/addUser)
 
-ROW Data: {
+ROW Data: 
+{
+
     "firstName": "Abhay",
+
     "lastName": "Rohan",
+
     "email": "anand.abhay192@gmail.com",
+
     "contact_no": 8448217704
 
 }
@@ -81,10 +86,15 @@ Method `PUT`
 
 URL: [http://localhost:5000/updateUser?id=1](http://localhost:5000/updateUser?id=1)
 
-ROW Data: {
+ROW Data: 
+{
+
     "firstName": "Abhay",
+
     "lastName": "Rohan",
+
     "email": "anand.abhay192@gmail.com",
+
     "contact_no": 8448217704
 
 }

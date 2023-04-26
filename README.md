@@ -55,8 +55,11 @@ Port is using 5000 in node js
 
 ## Here 5 Apis are created
 1. POST request to add new user
+
 Method `POST`
+
 URL: [http://localhost:5000/addUser](http://localhost:5000/addUser)
+
 ROW Data: {
     "firstName": "Abhay",
     "lastName": "Rohan",
@@ -66,12 +69,18 @@ ROW Data: {
 }
 
 2. GET request to fetch all users
+
 Method `GET`
+
 URL: [http://localhost:5000/getAllUserDetails](http://localhost:5000/getAllUserDetails)
 
+
 3. PUT request to add update user details
+
 Method `PUT`
+
 URL: [http://localhost:5000/updateUser?id=1](http://localhost:5000/updateUser?id=1)
+
 ROW Data: {
     "firstName": "Abhay",
     "lastName": "Rohan",
@@ -81,11 +90,16 @@ ROW Data: {
 }
 
 4. Delete request to delete user
+
 Method `DELETE`
+
 URL: [http://localhost:5000/deleteUser/1](http://localhost:5000/deleteUser/1)
 
+
 5. GET request to fetch all movie list
+
 Method `GET`
+
 URL: [http://localhost:5000/getMovieList](http://localhost:5000/getMovieList)
 
 
